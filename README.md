@@ -41,14 +41,14 @@ L'objectif était de donner une meilleure visibilité aux commerces de proximit�
 - Mot de passe oublié (réinitialisation par token).
 - Suppression de compte en cascade (avis, discussions, favoris, historique supprimés avec le compte).
 
-### Espace personnel (particulier)
+### Espace personnel
 - Consultation et édition du profil (nom, mail, adresse).
 - **Favoris** : liste des produits enregistrés.
 - **Avis** : historique des avis postés, avec suppression multiple.
 - **Questions** : historique des questions posées, avec suppression multiple.
 - **Historique de consultation** : les 7 derniers produits consultés (purge automatique du plus ancien), avec possibilité de tout effacer.
 
-### Espace entreprise (dashboard commerce)
+### Espace entreprise 
 - Gestion des informations de l'entreprise, avec option pour appliquer un changement d'adresse à tous ses produits en cas de déménagement.
 - **Statistiques** : nombre total de vues et de mises en favoris sur l'ensemble des produits.
 - **Ajout / édition de produits et services** : nom, prix, adresse, type (produit ou service), mots-clés, description.
@@ -56,7 +56,7 @@ L'objectif était de donner une meilleure visibilité aux commerces de proximit�
 - Recherche en direct dans ses propres produits publiés.
 - Gestion des questions reçues avec réponse directe depuis le dashboard.
 
-### Recherche (cœur du produit)
+### Recherche 
 - **Recherche plein texte floue** (tolérante aux fautes de frappe), indexée sur les mots-clés et le contenu des produits.
 - **Filtres** : curseur de prix maximum et curseur de distance maximum .
 - **Recherche géolocalisée** : depuis la position enregistrée, une adresse saisie (avec autocomplete) ou un point choisi sur une carte interactive.
