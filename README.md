@@ -2,7 +2,7 @@
 
 Dipla est une plateforme web de découverte de commerces de proximité. Elle permet à des particuliers de trouver des produits et services proposés par des entreprises locales, avec une logique de recherche géolocalisée (distance, itinéraire) plutôt qu'un simple annuaire en ligne.
 
-Développé entre 2023 et 2024, le site est entièrement responsive (mobile, tablette, desktop). Le projet a été entièrement terminé et mis en ligne, avant d'être abandonné faute de temps pour continuer sa maintenance et son évolution. Ce dépôt est conservé comme trace du travail réalisé.
+Développé entre 2022 et 2024, le site est entièrement responsive (mobile, tablette, desktop). Le projet a été entièrement terminé et mis en ligne, avant d'être abandonné faute de temps pour continuer sa maintenance et son évolution. Ce dépôt est conservé comme trace du travail réalisé.
 
 > Le site n'étant plus hébergé, des vidéos de démonstration du site ainsi que de la base de données sont disponibles à la fin du fichier
 
